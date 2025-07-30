@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-family: serif;
+    font-family: serif, "Helvetica Neue", Helvetica, Arial;
   }
 
   body {
     margin: 0;
-    font-family: serif;
+    font-family: serif, "Helvetica Neue", Helvetica, Arial;
   }
 
   h1 {
